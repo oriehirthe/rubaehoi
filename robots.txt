@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://beefulohce.woohannah-mm-book.com/sitemap.xml
